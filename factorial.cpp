@@ -45,3 +45,7 @@ int main() {
 
 
 //this is from feature branch
+
+//For Squash commit 1
+
+//For Squash Commit 2
