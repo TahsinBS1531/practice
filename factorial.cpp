@@ -11,9 +11,6 @@ int factorial(int n) {
 void fibonacciSeries(int n) {
     int first = 0, second = 1, next;
     cout << "Fibonacci sequence up to " << n << " terms: ";
-    first = 1;
-    second =2;
-    next = 5;
 
     for (int i = 0; i < n; ++i) {
         if (i <= 1)
