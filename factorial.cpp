@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -16,3 +17,18 @@ int main() {
     cout << "Factorial of " << number << " is " << factorial(number) << endl;
     return 0;
 }
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+//this is from feature branch
+>>>>>>> feature-branch
