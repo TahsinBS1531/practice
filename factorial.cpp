@@ -8,7 +8,6 @@ int factorial(int n) {
         return n * factorial(n - 1);
 }
 
-//Adding some new line of code
 void fibonacciSeries(int n) {
     int first = 0, second = 1, next;
     cout << "Fibonacci sequence up to " << n << " terms: ";
@@ -31,13 +30,6 @@ int main() {
     cout << "Enter a number: ";
     cin >> number;
     cout << "Factorial of " << number << " is " << factorial(number) << endl;
-
-    //For Fibonacci Series
-    cout<<"Enter the number for fibonacci series"<<endl;
-    int n;
-    cin>>n;
-    fibonacciSeries(n)
-
     return 0;
 }
 
